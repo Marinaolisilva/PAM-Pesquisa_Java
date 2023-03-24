@@ -51,7 +51,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >            break;
 >        default:
 >            instrução
->   }
+>      }
 
 #### - Não há valor definido em relação a quantos cases pode adicionar, dessa forma é permitido N valores.
 
