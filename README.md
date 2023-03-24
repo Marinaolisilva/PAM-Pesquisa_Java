@@ -19,7 +19,8 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 
 #### Usar a sintaxe **if** serve para definir uma condição, e caso a situação se enquadre nela, será verdadeira e automaticamente as instruções dela irão ser executadas. O **else** é utilizado para executar instruções quando o if é falso (pois as instruções do **if** deles são interrompidas).
 
-> Exemplo
+#### Exemplo:
+
 >     if(x>9){
 >             instrução;       
 >     } else {
@@ -28,13 +29,13 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 
 #### - Também é possível usar o if e o else de forma encadeada. Por exemplo:
 
->   if (x>9){
->           instrução;
->   }else if (x<=9) {
->           instrução;
->   } else {
->           instrução;
->   }
+>       if (x>9){
+>             instrução;
+>       }else if (x<=9) {
+>             instrução;
+>       } else {
+>             instrução;
+>       }
 
 ### - Swith/case
 
