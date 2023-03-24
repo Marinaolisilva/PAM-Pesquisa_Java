@@ -15,7 +15,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 
 #### Elas servem para controlar quais códigos vão ser executados de acordo com a situaç.
 
-### - If/Else
+### + If/Else
 
 #### Usar a sintaxe **if** serve para definir uma condição, e caso a situação se enquadre nela, será verdadeira e automaticamente as instruções dela irão ser executadas. O **else** é utilizado para executar instruções quando o if é falso (pois as instruções do **if** deles são interrompidas).
 
@@ -27,7 +27,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >             instrução;
 >     }
 
-####  - Também é possível usar o if e o else de forma encadeada. Por exemplo:
+####  + Também é possível usar o if e o else de forma encadeada. Por exemplo:
 
 >       if (x>9){
 >             instrução;
@@ -37,7 +37,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >             instrução;
 >       }
 
-###  - Swith/case
+###  + Swith/case
 
 #### É uma condição de múltipla escolha, usada para testar as várias condições e determinar qual instruçãos será executada. 
 #### A sintaxe dele é:
@@ -53,7 +53,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >            instrução
 >      }
 
-####  - Não há valor definido em relação a quantos cases pode adicionar, dessa forma é permitido N valores.
+####  + Não há valor definido em relação a quantos cases pode adicionar, dessa forma é permitido N valores.
 
 
 
