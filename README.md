@@ -1,15 +1,15 @@
 # PAM-Pesquisa_Java
 Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mobile 
 
-# Tipos de Dados do Java
+## Tipos de Dados do Java
 
-## Os tipos de dados básicos são divididos nas seguintes categorias:
+#### Os tipos de dados básicos são divididos nas seguintes categorias:
 
-## Tipo boolean: esse tipo de dado é armazenar apenas dois valores. Sendo eles true or false.
-## Tipos integrais: 
-### - byte: 
+#### Tipo boolean: esse tipo de dado é armazenar apenas dois valores. Sendo eles true or false.
+#### Tipos integrais: 
+####- byte: 
 , short, int, lomg, char;
-## - Tipos de pontos flutuantes: float, double;
+#### - Tipos de pontos flutuantes: float, double;
 
 ## Estruturas Condicionnais 
 
@@ -53,9 +53,10 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >            instrução
 >      }
 
-- #### *Não há valor definido em relação a quantos cases pode adicionar, dessa forma é permitido N valores.*
-- #### *Não pode conter valores de cases iguais.*
-- #### *Cada case deve ter o mesmo tipo de valor que variável;*
+- *Não há valor definido em relação a quantos cases pode adicionar, dessa forma é permitido N valores.*
+- *Não pode conter valores de cases iguais.*
+- *Cada case deve ter o mesmo tipo de valor que variável;*
+
 ### Definições:
 - #### switch (expressão): onde é colocado a variável que será a referência das condições que o programa executar;
 - #### case: é condição que será comparada com variável, sendo executado se for compatível;
