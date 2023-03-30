@@ -27,7 +27,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >             instrução;
 >     }
 
-####  + Também é possível usar o if e o else de forma encadeada. Por exemplo:
+- #### Também é possível usar o if e o else de forma encadeada. Por exemplo:
 
 >       if (x>9){
 >             instrução;
@@ -37,7 +37,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >             instrução;
 >       }
 
-###  + Swith/case
+- ### Swith/case
 
 #### É uma condição de múltipla escolha, usada para testar as várias condições e determinar qual instruçãos será executada. 
 #### A sintaxe dele é:
@@ -53,7 +53,18 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >            instrução
 >      }
 
-####  + Não há valor definido em relação a quantos cases pode adicionar, dessa forma é permitido N valores.
+- #### *Não há valor definido em relação a quantos cases pode adicionar, dessa forma é permitido N valores.*
+- #### *Não pode conter valores de cases iguais.*
+- #### *Cada case deve ter o mesmo tipo de valor que variável;*
+### Definições:
+- #### switch (expressão): onde é colocado a variável que será a referência das condições que o programa executar;
+- #### case: é condição que será comparada com variável, sendo executado se for compatível;
+- #### break: quebra opcional;
+- #### default: quebra opcional para executar alguma instrução caso nenhuma das condições forem verdadeiras;
+
+## Referências:
+
+<https://blog.betrybe.com/java/switch-case-java/>
 
 
 
