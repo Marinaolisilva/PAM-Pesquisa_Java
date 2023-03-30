@@ -15,7 +15,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 
 #### Elas servem para controlar quais códigos vão ser executados de acordo com a situaç.
 
-### + If/Else
+- ### If/Else
 
 #### Usar a sintaxe **if** serve para definir uma condição, e caso a situação se enquadre nela, será verdadeira e automaticamente as instruções dela irão ser executadas. O **else** é utilizado para executar instruções quando o if é falso (pois as instruções do **if** deles são interrompidas).
 
