@@ -11,7 +11,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 , short, int, lomg, char;
 #### - Tipos de pontos flutuantes: float, double;
 
-## Estruturas Condicionnais 
+## Estruturas Condicionais 
 
 #### Elas servem para controlar quais códigos vão ser executados de acordo com a situaç.
 
