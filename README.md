@@ -63,9 +63,29 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 - #### break: quebra opcional;
 - #### default: quebra opcional para executar alguma instrução caso nenhuma das condições forem verdadeiras;
 
+## Estruturas de Repetição
+
+#### É uma estrutura que permite executar os mesmos comandos mais de uma vez. Abas é possível definir até quando executar o comando, atráves da variável. Há três tipos de repetição:
+- #### *for*:
+#### Esse comando define em uma linha de código, a variável de controle, para assim conseguir definir a quantidade de vezes que os comandos serão executados; a expressão que irá validar a variável, e assim partir que os comandos sejam executados ou não; e incremento da variável de controle, que vai definir o quanto a variável será mudada.
+
+### Sintaxe *for*
+
+>     > for (variável de controle, expressão de validação, incremento da variável de controle) {
+>    	      //Comandos
+>      }
+
+### Exemplo: 
+
+>     for ( int i  =  1; i <= 10; i++){
+>       	System.out.orintln( i * ”num”);
+>     }
+
 ## Referências:
 
 <https://blog.betrybe.com/java/switch-case-java/>
+<https://glysns.gitbook.io/java-basico/controle-de-fluxo/estruturas-de-repeticao>
+<https://www.treinaweb.com.br/blog/estruturas-condicionais-e-estruturas-de-repeticao-em-java>
 
 
 
