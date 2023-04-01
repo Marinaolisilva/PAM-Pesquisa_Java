@@ -6,6 +6,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 #### Os tipos de dados básicos são tipos primitivos e são divididos da seguinte forma:
 
 ### Boolean -  recebe apenas dois valores: true or false
+
 ###Numéricos integrais -  são compostos por:
 - byte
 - short
