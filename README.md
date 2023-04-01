@@ -3,9 +3,9 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 
 ## Tipos de Dados do Java
 
-#### Os tipos de dados básicos são divididos nas seguintes categorias:
+#### Os tipos de dados básicos são divididos em duas categorias, tipos primitivos e tipos por referência:
 
-#### Tipo boolean: esse tipo de dado é armazenar apenas dois valores. Sendo eles true or false.
+#### Tipo boolean: esse tipo de dado serve para armazenar apenas dois valores. Sendo eles true or false.
 #### Tipos integrais: 
 ####- byte: 
 , short, int, lomg, char;
