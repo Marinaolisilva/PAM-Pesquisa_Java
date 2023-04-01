@@ -12,8 +12,8 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 - short
 - int
 - long
-- char
-### apesar de uma vaiável do **tipo char** receer uma caracter, essa varável també permite receber valores literais do tipo **int e unico.de**. 
+-char
+### apesar de uma vaiável do **tipo char** receber um caracter essa variável também recebe valores literais do tipo  **int e unicode**.
 >ponto flutuante - composto  por
 -float
 -double
