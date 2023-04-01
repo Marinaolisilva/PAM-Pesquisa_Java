@@ -8,15 +8,15 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
  
 > boolean - esse tipo só recebe  dois valores true or false;
 > numéricos integrais -  são compostos por
-- *byte
-- *short
-- *int
-- * long
-- *char
-### apesar de uma vaiável do **-tipo char-** receber uma caracter, essa variável també permite receber valores literais do tipo **-int e unico.de-**. 
+- byte
+- short
+- int
+- long
+- char
+### apesar de uma vaiável do **tipo char** receer uma caracter, essa varável també permite receber valores literais do tipo **int e unico.de**. 
 >ponto flutuante - composto  por
--*float
--*double
+-float
+-double
 
 ## Estruturas Condicionais 
 
