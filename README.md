@@ -104,8 +104,8 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >       }
 
 #### - Do while:
-	A única diferença entre ele e o restante, é que ele executa o bloco de comandos primeiro e depois verifica a condição.
-Sua sintaxe é: 
+####	A única diferença entre ele e o restante, é que ele executa o bloco de comandos primeiro e depois verifica a condição.
+### Sintaxe:
 
 >     do {
 >     		//comandos
