@@ -8,20 +8,22 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 ### Boolean -  recebe apenas dois valores: true or false
 
 ### Numéricos integrais - são compostos por:
+
 - byte
 - short
 - int
 - long
 - char
+
 ### Apesar da variável do **tipo char** receber apenas um caracter essa variável também recebe valores literais do tipo  **int e unicode**. 
 
 ### Ponto flutuanted:
--float
--double
+- float
+- double
 
 ## Estruturas Condicionais 
 
-#### Elas servem para controlar quais códigos vão ser executados de acordo com a situaç.
+#### Elas servem para controlar quais códigos vão ser executados de acordo com a situação.
 
 - ### If/Else
 
@@ -89,6 +91,26 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >       	System.out.orintln( i * ”num”);
 >     }
 
+#### - *While* :
+####	A estrutura do while é escrita de forma diferente do *For*. Além disso, vale ressaltar que ele primeiro verifica a condição para depois executar o código. Sua estrutura é da seguinte forma:
+- #### na 1º em uma linha é definido quanto vale a variável de controle;
+- #### na 2º linha e definido a condição que irá validar;
+
+### Sintaxe:
+
+>       int i = 0;
+>            while(i<=9){
+>                 //comando
+>       }
+
+#### - Do while:
+	A única diferença entre ele e o restante, é que ele executa o bloco de comandos primeiro e depois verifica a condição.
+Sua sintaxe é: 
+
+>     do {
+>     		//comandos
+>     } while(condição);
+
 ## Referências:
 
 <https://blog.betrybe.com/java/switch-case-java/>
@@ -96,6 +118,9 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 <https://www.treinaweb.com.br/blog/estruturas-condicionais-e-estruturas-de-repeticao-em-java>
 <https://blog.grancursosonline.com.br/os-tipos-primitivos-da-linguagem-java/>
 <https://www.dio.me/articles/java-tipos-primitivos>
+<http://www.universidadejava.com.br/java/java-do-while/>
+<http://excript.com/java/estrutura-while-java.html>
+
 
 
 
