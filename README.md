@@ -3,13 +3,20 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 
 ## Tipos de Dados do Java
 
-#### Os tipos de dados básicos são divididos em duas categorias, tipos primitivos e tipos por referência:
+#### Os tipos de dados básicos são tipos primitivos e são divididos da seguinte forma:
 
-#### Tipo boolean: esse tipo de dado serve para armazenar apenas dois valores. Sendo eles true or false.
-#### Tipos integrais: 
-####- byte: 
-, short, int, lomg, char;
-#### - Tipos de pontos flutuantes: float, double;
+ 
+> boolean - esse tipo só recebe  dois valores true or false;
+> numéricos integrais -  são compostos por
+- *byte
+- *short
+- *int
+- * long
+- *char
+### apesar de uma vaiável do **-tipo char-** receber uma caracter, essa variável també permite receber valores literais do tipo **-int e unico.de-**. 
+>ponto flutuante - composto  por
+-*float
+-*double
 
 ## Estruturas Condicionais 
 
@@ -86,6 +93,8 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 <https://blog.betrybe.com/java/switch-case-java/>
 <https://glysns.gitbook.io/java-basico/controle-de-fluxo/estruturas-de-repeticao>
 <https://www.treinaweb.com.br/blog/estruturas-condicionais-e-estruturas-de-repeticao-em-java>
+<https://blog.grancursosonline.com.br/os-tipos-primitivos-da-linguagem-java/>
+<https://www.dio.me/articles/java-tipos-primitivos>
 
 
 
