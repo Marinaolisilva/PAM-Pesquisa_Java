@@ -13,7 +13,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 - int
 - long
 -char
-### Apesar da variáveldo **tipo char** receber apenas um caracter essa variável também recebe valores literais do tipo  **int e unicode**.
+### Apesar da variável do **tipo char** receber apenas um caracter essa variável também recebe valores literais do tipo  **int e unicode**. 
 >ponto flutuante - composto  por
 -float
 -double
