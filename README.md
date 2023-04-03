@@ -116,6 +116,14 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 > - Tudo o uqe você vê e interage no aplicativo é chamado de interface de usuário.
 ### Internamente utilizamos a síntaxe da XML para construir os componetes.
 >  - Existem diferentes tipos tipos de views, as mais usadas são:
+>  -textview: mostra algum texto
+>  <textview
+            android:text = "Olá Android!"
+            android:layout-width = ""150dp"/>
+                                          
+
+          
+             
 
 ## Referências:
 
