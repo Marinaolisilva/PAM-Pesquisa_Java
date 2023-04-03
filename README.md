@@ -110,7 +110,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >     do {
 >     		//comandos
 >     } while(condição);
-## Propriedades de views do Android
+## Propriedade de views do Android
 
 ## Referências:
 
