@@ -18,8 +18,8 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 ### Apesar da variável do **tipo char** receber apenas um caracter essa variável também recebe valores literais do tipo  **int e unicode**. 
 
 ### Ponto flutuanted:
-- float
-- double
+- float: armazena valores de ponto flutuante, com 32 bit de precisãqo única.
+- double: armazena números flutuantes de precisão dupla, podendo conter 64 bits.
 
 ## Estruturas Condicionais 
 
@@ -110,6 +110,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >     do {
 >     		//comandos
 >     } while(condição);
+##Propriedades de views do Android
 
 ## Referências:
 
@@ -120,6 +121,9 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 <https://www.dio.me/articles/java-tipos-primitivos>
 <http://www.universidadejava.com.br/java/java-do-while/>
 <http://excript.com/java/estrutura-while-java.html>
+<http://fabrica.ms.senac.br/2015/03/tipos-de-dados-em-java/#:~:text=Os%208%20tipos%20primitivos%20de,%C3%A9%20a%20economia%20de%20mem%C3%B3ria.>
+<https://www.javatpoint.com/pt/tipo-de-dado-em-java#:~:text=O%20tipo%20de%20dado%20float,de%20n%C3%BAmero%20de%20ponto%20flutuante.>
+<https://www.devmedia.com.br/tipos-de-dados-por-valor-e-por-referencia-em-java/25293#:~:text=As%20vari%C3%A1veis%20do%20tipo%20double,como%20literais%20de%20ponto%20flutuante.>
 
 
 
