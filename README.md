@@ -10,10 +10,10 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 ### Numéricos integrais - são compostos por:
 
 - byte: pode conter valores negativos ou inteiros e requer 8 bits para  serem implemntedas.
-- short
-- int
-- long
-- char
+- short: também pode conter valores negativos, positivos ou inteiros, porém utiliza 16 bits par implementar os valores.
+- int: armazena valores negativos ou positivos, contendo 32 bits para  ser implementadi.
+- long: pode armazenar valores positivos, negativos ou inteiros, tendo 64 bits para ser implementado.
+- char: esse tipo armazena caracteres, 16 bit que pode ser textos.
 
 ### Apesar da variável do **tipo char** receber apenas um caracter essa variável também recebe valores literais do tipo  **int e unicode**. 
 
