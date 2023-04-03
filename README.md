@@ -9,7 +9,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 
 ### Numéricos integrais - são compostos por:
 
-- byte
+- byte: pode conter valores negativos ou inteiros e requer 8 bits para  serem implemntedas.
 - short
 - int
 - long
