@@ -118,7 +118,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >  - Existem diferentes tipos tipos de views, as mais usadas são:
 >  -textview: mostra algum texto
 >  <textview
-            android:text = "Olá Android!"
+>      androi
             android:layout-width = ""150dp"/>
                                           
 
