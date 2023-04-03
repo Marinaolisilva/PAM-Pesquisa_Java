@@ -111,6 +111,11 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >     		//comandos
 >     } while(condição);
 ## Propriedade de views do Android
+### View é um retângulo que mostra algum conteúdo, podendo ser uma imagem, uma parte de um texto, um botão ou qualqueroutra coisa que o aplicativo quiser apresentar. E todas as views formam o layout de interface.
+
+> - Tudo o uqe você vê e interage no aplicativo é chamado de interface de usuário.
+### Internamente utilizamos a síntaxe da XML para construir os componetes.
+>  - Existem diferentes tipos tipos de views, as mais usadas são:
 
 ## Referências:
 
