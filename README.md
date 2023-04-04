@@ -17,7 +17,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 
 ### Apesar da variável do **tipo char** receber apenas um caracter essa variável também recebe valores literais do tipo  **int e unicode**. 
 
-### Ponto flutuanted:
+### Ponto flutuante:
 - float: armazena valores de ponto flutuante, com 32 bit de precisãqo única.
 - double: armazena números flutuantes de precisão dupla, podendo conter 64 bits.
 
@@ -121,12 +121,6 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >      android:layout_width = ""150dp"
 >      android:layout_heigh = "75dp"/>
 ### Primeiro, abrimos o XML com o elemento (<) junto ao nome do componente, em seguida temos a lista de atributos e fechamos com (/>).
-
-         
-                                          
-
-          
-             
 
 ## Referências:
 
