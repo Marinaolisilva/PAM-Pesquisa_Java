@@ -118,9 +118,29 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 ### Internamente utilizamos a síntaxe da XML para construir os componetes. Por exemplo:
 >  <textview
 >      android:text = "Olá Android!"
+>  
 >      android:layout_width = ""150dp"
+>  
 >      android:layout_heigh = "75dp"/>
 ### Primeiro, abrimos o XML com o elemento (<) junto ao nome do componente, em seguida temos a lista de atributos e fechamos com (/>).
+### Podemos usar também para definir os elementos do XML, o LinearLayout, que é um grupo de visualizações que alinha todos os elementos filhos em uma única direção. Por exemplo:
+>  <Linear Layout
+>                xmlns:android = "http://schemas.android.com/apk/res/android"
+>
+>                android:orientation = "vertical"
+>               
+>                android:layout_width="match_parent"
+>
+>                android:layout_height="match_parent"/>
+>
+>    <buttonview
+>                android:layout_width="100dp"
+>
+>                android:layout_height="wrap_content"/>
+>
+>    </LinearLayout>
+### Para definir a direção do layout usamos android:orientation, após configurar o layout, abrimos as tags correspondente aos componentes que queremos configuar, e para fechar utilizamos o LinearLayout novamente, só que desta vez utilizando(</>).
+ 
 
 ## Referências:
 
@@ -134,7 +154,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 <http://fabrica.ms.senac.br/2015/03/tipos-de-dados-em-java/#:~:text=Os%208%20tipos%20primitivos%20de,%C3%A9%20a%20economia%20de%20mem%C3%B3ria.>
 <https://www.javatpoint.com/pt/tipo-de-dado-em-java#:~:text=O%20tipo%20de%20dado%20float,de%20n%C3%BAmero%20de%20ponto%20flutuante.>
 <https://www.devmedia.com.br/tipos-de-dados-por-valor-e-por-referencia-em-java/25293#:~:text=As%20vari%C3%A1veis%20do%20tipo%20double,como%20literais%20de%20ponto%20flutuante.>
-
+<https://developer.android.com/guide/topics/ui/layout/linear?hl=pt-br>
 
 
 
