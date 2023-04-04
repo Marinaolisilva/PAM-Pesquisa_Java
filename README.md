@@ -141,7 +141,8 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >                android:layout_height="wrap_content"/>
 >
 >    </LinearLayout>
-### Para definir a direção do layout usamos android:orientation, após configurar o layout, abrimos as tags correspondente aos componentes que queremos configuar, e para fechar utilizamos o LinearLayout novamente, só que desta vez utilizando(</>).
+ 
+### Para definir a direção do layout usamos android:orientation, após configurar o layout, abrimos as tags correspondente aos componentes que queremos configuar, dentro da tyags são colocados atributos e os valores desses atributos são entre aspas, e para fechar utilizamos o LinearLayout novamente, só que desta vez utilizando(</>).
  
 
 ## Referências:
