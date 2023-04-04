@@ -124,8 +124,9 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >      android:layout_heigh = "75dp"/>
 ### Primeiro, abrimos o XML com o elemento (<) junto ao nome do componente, em seguida temos a lista de atributos e fechamos com (/>).
 ### Podemos usar também para definir os elementos do XML, o LinearLayout, que é um grupo de visualizações que alinha todos os elementos filhos em uma única direção. Por exemplo:
->  <Linear Layout
->                xmlns:android = "http://schemas.android.com/apk/res/android"
+>   <Linear Layout
+>
+>                xmlns:android = "link do android"
 >
 >                android:orientation = "vertical"
 >               
@@ -134,6 +135,7 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >                android:layout_height="match_parent"/>
 >
 >    <buttonview
+>
 >                android:layout_width="100dp"
 >
 >                android:layout_height="wrap_content"/>
