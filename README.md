@@ -143,7 +143,14 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >       </LinearLayout>
  
 ### Para definir a direção do layout usamos android:orientation, após configurar o layout, abrimos as tags correspondente aos componentes que queremos configuar, dentro da tyags são colocados atributos e os valores desses atributos são entre aspas, e para fechar utilizamos o LinearLayout novamente, só que desta vez utilizando(</>).
- 
+>
+### As view mais usadas são:
+- TextView: mostra um texto formatado.
+- EditText: campo de texto que permite editar para a entrada de dados. 
+- ImageView: mostra uma imagem.
+- ImageButton: mostra uma imagem com comportamento dde botão.
+- Button: é usado para executar algo através do botão.
+- ListView: lista de itens que contém outras views.
 
 ## Referências:
 
