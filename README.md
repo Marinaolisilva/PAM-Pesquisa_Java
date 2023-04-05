@@ -5,21 +5,21 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 
 #### Os tipos de dados básicos são tipos primitivos e são divididos da seguinte forma:
 
-### Boolean -  recebe apenas dois valores: true or false
+### - Boolean -  recebe apenas dois valores: true or false;
 
-### Numéricos integrais - são compostos por:
+### - Numéricos integrais - são compostos por:
 
-- byte: pode conter valores negativos ou inteiros e requer 8 bits para  serem implemntedas.
-- short: também pode conter valores negativos, positivos ou inteiros, porém utiliza 16 bits par implementar os valores.
-- int: armazena valores negativos ou positivos, contendo 32 bits para  ser implementadi.
-- long: pode armazenar valores positivos, negativos ou inteiros, tendo 64 bits para ser implementado.
-- char: esse tipo armazena caracteres, 16 bit que pode ser textos.
+#### - byte: pode conter valores negativos ou inteiros e requer 8 bits para  serem implemntedas.
+#### - short: também pode conter valores negativos, positivos ou inteiros, porém utiliza 16 bits par implementar os valores.
+#### - int: armazena valores negativos ou positivos, contendo 32 bits para  ser implementadi.
+#### - long: pode armazenar valores positivos, negativos ou inteiros, tendo 64 bits para ser implementado.
+#### - char: esse tipo armazena caracteres, 16 bit que pode ser textos.
 
-### Apesar da variável do **tipo char** receber apenas um caracter essa variável também recebe valores literais do tipo  **int e unicode**. 
+#### Apesar da variável do **tipo char** receber apenas um caracter essa variável também recebe valores literais do tipo  **int e unicode**. 
 
-### Ponto flutuante:
-- float: armazena valores de ponto flutuante, com 32 bit de precisãqo única.
-- double: armazena números flutuantes de precisão dupla, podendo conter 64 bits.
+### - Ponto flutuante:
+####    - float: armazena valores de ponto flutuante, com 32 bit de precisãqo única.
+####    - double: armazena números flutuantes de precisão dupla, podendo conter 64 bits.
 
 ## Estruturas Condicionais 
 
@@ -112,18 +112,18 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >     } while(condição);
 
 ## Propriedade de views do Android
-### View é um retângulo que mostra algum conteúdo, podendo ser uma imagem, uma parte de um texto, um botão ou qualqueroutra coisa que o aplicativo quiser apresentar. E todas as views formam o layout de interface.
+#### View é um retângulo que mostra algum conteúdo, podendo ser uma imagem, uma parte de um texto, um botão ou qualqueroutra coisa que o aplicativo quiser apresentar. E todas as views formam o layout de interface.
 
-> - Tudo o uqe você vê e interage no aplicativo é chamado de interface de usuário.
-### Internamente utilizamos a síntaxe da XML para construir os componetes. Por exemplo:
+> #### - Tudo o que você vê e interage no aplicativo é chamado de interface de usuário.
+#### Internamente utilizamos a síntaxe da XML para construir os componetes. Por exemplo:
 >       <textview
 >           android:text = "Olá Android!"
 >  
 >           android:layout_width = ""150dp"
 >  
 >           android:layout_heigh = "75dp"/>
-### Primeiro, abrimos o XML com o elemento (<) junto ao nome do componente, em seguida temos a lista de atributos e fechamos com (/>).
-### Podemos usar também para definir os elementos do XML, o LinearLayout, que é um grupo de visualizações que alinha todos os elementos filhos em uma única direção. Por exemplo:
+#### Primeiro, abrimos o XML com o elemento (<) junto ao nome do componente, em seguida temos a lista de atributos e fechamos com (/>).
+#### Podemos usar também para definir os elementos do XML, o LinearLayout, que é um grupo de visualizações que alinha todos os elementos filhos em uma única direção. Por exemplo:
 >       <Linear Layout 
 >
 >                xmlns:android = "link do android"
@@ -142,15 +142,15 @@ Trabalho de pesquisa sobre Java da disciplina de Programação de Aplicativos Mo
 >
 >       </LinearLayout>
  
-### Para definir a direção do layout usamos android:orientation, após configurar o layout, abrimos as tags correspondente aos componentes que queremos configuar, dentro da tyags são colocados atributos e os valores desses atributos são entre aspas, e para fechar utilizamos o LinearLayout novamente, só que desta vez utilizando(</>).
+#### Para definir a direção do layout usamos android:orientation, após configurar o layout, abrimos as tags correspondente aos componentes que queremos configuar, dentro da tyags são colocados atributos e os valores desses atributos são entre aspas, e para fechar utilizamos o LinearLayout novamente, só que desta vez utilizando(</>).
 >
-### As view mais usadas são:
-- TextView: mostra um texto formatado.
-- EditText: campo de texto que permite editar para a entrada de dados. 
-- ImageView: mostra uma imagem.
-- ImageButton: mostra uma imagem com comportamento dde botão.
-- Button: é usado para executar algo através do botão.
-- ListView: lista de itens que contém outras views.
+### As *views* mais usadas são:
+#### - TextView: mostra um texto formatado.
+#### - EditText: campo de texto que permite editar para a entrada de dados. 
+#### - ImageView: mostra uma imagem.
+#### - ImageButton: mostra uma imagem com comportamento dde botão.
+#### - Button: é usado para executar algo através do botão.
+#### - ListView: lista de itens que contém outras views.
 
 ## Referências:
 
